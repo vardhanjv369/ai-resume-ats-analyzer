@@ -161,8 +161,6 @@ B.Tech – Artificial Intelligence & Data Science
 
 GitHub: https://github.com/vardhanjv369
 
-LinkedIn: Add your LinkedIn profile here
-
 ---
 
 ## ⭐ Support
